@@ -1,7 +1,16 @@
 *Booking API Automation with REST Assured*.
 
 This project is a test automation suite for the Booking API using Java, Rest Assured, and TestNG. The project automates three key scenarios: token generation, booking creation, and retrieval of booking lists.
+
+
+    Project Structure
     
+        src/main/java: Contains the main test automation code, including REST Assured configuration and utility classes.
+        src/test/java: Contains the test classes for each scenario.
+        resources: Includes any test data files in Excel format.
+        reports: Holds the generated test execution reports (Extent or Allure).
+        pom.xml: Maven configuration file for managing project dependencies.
+        
     Scenarios Covered.
      
     Scenario 1: Verify Token Generation
