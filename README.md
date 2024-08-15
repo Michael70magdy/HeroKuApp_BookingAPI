@@ -39,7 +39,6 @@ This project is a test automation suite for the Booking API using Java, Rest Ass
         Verify that the booking is added successfully by comparing the response data.
 
     Scenario 3: Verify List of Bookings
-    
         Description: This scenario checks that the list of bookings returned by the API contains more than zero entries.
        
         API Endpoint: GET /booking
