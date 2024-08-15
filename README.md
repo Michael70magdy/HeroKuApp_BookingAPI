@@ -46,7 +46,7 @@ This project is a test automation suite for the Booking API using Java, Rest Ass
         Validations:
         Assert that the list of booking IDs is greater than zero.
 
-    Tools and Technologies Used
+    Tools and Technologies Used.
     
         Java: Programming language used for writing the test scripts.
         Rest Assured: Library for automating REST APIs.
