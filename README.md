@@ -5,10 +5,9 @@ This project is a test automation suite for the Booking API using Java, Rest Ass
 
 ## Project Structure
 
-- **`src/main/java`**: Contains the main test automation code, including REST Assured configuration and utility classes.
 - **`src/test/java`**: Contains the test classes for each scenario.
 - **`resources`**: Includes any test data files in Excel format.
-- **`reports`**: Holds the generated test execution reports (Extent or Allure).
+- **`reports`**: Holds the generated test execution reports (Allure).
 - **`pom.xml`**: Maven configuration file for managing project dependencies.
 
 ## Scenarios Covered
