@@ -1,4 +1,4 @@
----
+
 # Booking API Automation with REST Assured
 
 This project is a test automation suite for the Booking API using Java, Rest Assured, and TestNG. The project automates three key scenarios: token generation, booking creation, and retrieval of booking lists.
@@ -18,7 +18,7 @@ This project is a test automation suite for the Booking API using Java, Rest Ass
 - **API Endpoint**: `POST /auth`
   
   **Request Payload**:
- ```json
+  ```json
   {
     "username": "admin",
     "password": "password123"
@@ -66,4 +66,3 @@ This project is a test automation suite for the Booking API using Java, Rest Ass
 - **Extent Reports/Allure**: Tools for generating test execution reports.
 - **Maven**: Build automation tool for managing dependencies and running the project.
 
----
